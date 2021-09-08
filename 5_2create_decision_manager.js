@@ -20,16 +20,9 @@ var payloadJSON =
     "clientReferenceInformation": {
         "code": "Capturefordecisionmanager52",
         "comments": "decision manager case"
-             // "partner": {
-        //     "developerId": "83743",
-        //     "solutionId": "83743234"
+       
     },
-    //Risk information
-    "riskInformation": {
-        "profile": {
-            "name": "default"
-          }
-    },
+  
     "processingInformation": {
         "capture": false
     },
@@ -43,7 +36,7 @@ var payloadJSON =
     "orderInformation": {
         "amountDetails": {
             "currency": "USD",
-            "totalAmount": "680.14"
+            "totalAmount": "430.14"
         },
         "billTo": {
             "address1": "96, powers street",
@@ -52,12 +45,13 @@ var payloadJSON =
             "locality": "Clearwater milford",
             "firstName": "James",
             "lastName": "Smith Robber",
-            "phoneNumber": "7606160717",
-            "email": "assessment@reject.com.br",
+            "phoneNumber": "3236160717",
+            "email": "assessment@reject.com.mx",
             "postalCode": "03055"
         }
     }
 }
+
 
 
 
